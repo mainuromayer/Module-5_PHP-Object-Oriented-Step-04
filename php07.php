@@ -1,4 +1,5 @@
 <?php
+# More examples on inheritance -
 
 class Shape{
     protected $name;
